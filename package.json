@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@google-cloud/firestore": "^7.10.0",
+    "@types/node": "^22.7.5"
+  }
+}
